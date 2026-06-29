@@ -1,0 +1,179 @@
+canonical_identifier: bkk:krp/KR3f0038/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0038/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 夏侯陽算經
+  identifiers:
+    krp: KR3f0038
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0038.xml
+  edition:
+    short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0038_000-WYG.yaml, hash: 'sha256:57206e1ee58e3042dad83a9ebb220a2d00d6734700b9d84b9d9a08560396568e'}
+  - {seq: 1, filename: KR3f0038_001-WYG.yaml, hash: 'sha256:60a9b3cdfbee4f9704a562b0ccc4e9774384ac64d1d090693150303fd2f9c74b'}
+  - {seq: 2, filename: KR3f0038_002-WYG.yaml, hash: 'sha256:cc21b4ef3002a3496bccdbc39f98c6014adf133c21a51659d55f941eb1107cc7'}
+  - {seq: 3, filename: KR3f0038_003-WYG.yaml, hash: 'sha256:fa32d40bbfa8d6f12958de19e8bacf5ae1a6dca17ce2a1ac8120457018e6af7a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0038_000-WYG.markers.yaml, hash: 'sha256:f5374af76cc73e85fecdc96707aac91c182a84b0a5abd2be66a6cd676a467d3a'}
+  - {seq: 1, role: markers, filename: assets/KR3f0038_001-WYG.markers.yaml, hash: 'sha256:2064ae37123e8774bf5bf5402b4d5af978667c87d3e8f748f04151848b58770b'}
+  - {seq: 2, role: markers, filename: assets/KR3f0038_002-WYG.markers.yaml, hash: 'sha256:988a27f098b97dec099bff4b249e201d0e8373c375e3c0ad370349217a56f72b'}
+  - {seq: 3, role: markers, filename: assets/KR3f0038_003-WYG.markers.yaml, hash: 'sha256:38199ead99dfa595a97518c28a4bb3a6cef5a8bdc8cc3847f99c9d2d7e1de6ee'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0038_WYG_000-d12head.s3
+    span:
+    - front
+    - 0
+    - 300
+  label: 夏侯陽算經序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0038_WYG_000-d11fw.s1
+    span:
+    - body
+    - 0
+    - 486
+  label: 夏侯陽算經提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d21fw.s1
+    span:
+    - body
+    - 0
+    - 656
+  label: 夏侯陽算經卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d22head.s1
+    span:
+    - body
+    - 656
+    - 1245
+  label: 辯度量衡
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d22p9.s32.3
+    span:
+    - body
+    - 1245
+    - 1250
+  label: 言斛法不同
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1250
+    - 2097
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d24head.s1
+    span:
+    - body
+    - 2097
+    - 2700
+  label: 課租庸調
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d25head.s1
+    span:
+    - body
+    - 2700
+    - 3316
+  label: 論步數不等
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d26head.s1
+    span:
+    - body
+    - 3316
+    - 3731
+  label: 變米榖
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d31fw.s2
+    span:
+    - body
+    - 0
+    - 978
+  label: 夏侯陽算經卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d32head.s1
+    span:
+    - body
+    - 978
+    - 1517
+  label: 分祿料
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d33head.s1
+    span:
+    - body
+    - 1517
+    - 2083
+  label: 計給糧
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d34head.s1
+    span:
+    - body
+    - 2083
+    - 3289
+  label: 定腳價
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d35head.s1
+    span:
+    - body
+    - 3289
+    - 3984
+  label: 稱輕重
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0038_WYG_003-d41head.s3
+    span:
+    - body
+    - 0
+    - 3265
+  label: 說諸分
+  type: section
+  level: 1
+hash: sha256:db6a644df907941c8dc3f1a11585450a7b6bd778cad08160746a4f565fc4967a

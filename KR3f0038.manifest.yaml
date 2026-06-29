@@ -1,0 +1,185 @@
+canonical_identifier: bkk:krp/KR3f0038/v1
+canonical_location: https://kanripo.org/bkk/KR3f0038/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 夏侯陽算經
+  identifiers:
+    krp: KR3f0038
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0038.xml
+  edition:
+    short: bkk
+editions:
+- short: krp
+- short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0038_000.yaml, hash: 'sha256:3c10d05e2a7907591259b8e411e6733caa82b88b32b3b015f951db98f006ba6a'}
+  - {seq: 1, filename: KR3f0038_001.yaml, hash: 'sha256:a7c8e80ede42a24ba0be4af074b1848b2227d823cc022cdd5dcdf168585b4423'}
+  - {seq: 2, filename: KR3f0038_002.yaml, hash: 'sha256:a8ccd94d667a66455012c944dbd79a6b8bd13a41dbf9451b3e52cc7d921c915f'}
+  - {seq: 3, filename: KR3f0038_003.yaml, hash: 'sha256:90ce486d9825822271834f949b21ff80edbed51abb464e79706f4f3b57ed3167'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0038_000.markers.yaml, hash: 'sha256:a929941969db13f8363b29f651dd3e3539964d822edeacd28892de321b28e24d'}
+  - {seq: 1, role: markers, filename: assets/KR3f0038_001.markers.yaml, hash: 'sha256:1e2745b15186a233ffe40b503ed114193c7f1b591f35b909c17a2af366c2c201'}
+  - {seq: 2, role: markers, filename: assets/KR3f0038_002.markers.yaml, hash: 'sha256:8b0c34bce04c9bdc26a537efeba5ebf5eaeba644c02f3dc378a7ac55985ad3e1'}
+  - {seq: 3, role: markers, filename: assets/KR3f0038_003.markers.yaml, hash: 'sha256:80cf2e499aac9cfb1aa6065926d348a07a8aac5cce3f950fd80e26ed0045e92c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0038_WYG_000-d12head.s3
+    span:
+    - front
+    - 0
+    - 300
+  label: 夏侯陽算經序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0038_WYG_000-d11fw.s1
+    span:
+    - body
+    - 0
+    - 486
+  label: 夏侯陽算經提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d21fw.s1
+    span:
+    - body
+    - 0
+    - 656
+  label: 夏侯陽算經卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d22head.s1
+    span:
+    - body
+    - 656
+    - 1245
+  label: 辯度量衡
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d22p9.s32.3
+    span:
+    - body
+    - 1245
+    - 1250
+  label: 言斛法不同
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1250
+    - 2097
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d24head.s1
+    span:
+    - body
+    - 2097
+    - 2700
+  label: 課租庸調
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d25head.s1
+    span:
+    - body
+    - 2700
+    - 3316
+  label: 論步數不等
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0038_WYG_001-d26head.s1
+    span:
+    - body
+    - 3316
+    - 3731
+  label: 變米榖
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d31fw.s2
+    span:
+    - body
+    - 0
+    - 978
+  label: 夏侯陽算經卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d32head.s1
+    span:
+    - body
+    - 978
+    - 1517
+  label: 分祿料
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d33head.s1
+    span:
+    - body
+    - 1517
+    - 2083
+  label: 計給糧
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d34head.s1
+    span:
+    - body
+    - 2083
+    - 3289
+  label: 定腳價
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0038_WYG_002-d35head.s1
+    span:
+    - body
+    - 3289
+    - 3984
+  label: 稱輕重
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3f0038_WYG_003-d41head.s3
+    span:
+    - body
+    - 0
+    - 3265
+  label: 說諸分
+  type: section
+  level: 1
+hash: sha256:9f0b2348f5fdc87971a30d1bb1e691f6a90a6fe03b342a101dcf463adeff9921
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
