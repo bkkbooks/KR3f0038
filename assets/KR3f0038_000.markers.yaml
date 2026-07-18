@@ -171,6 +171,7 @@ markers:
   - {type: 'tls:seg', offset: 14, content: '', id: KR3f0038_WYG_000-d11p1.s4}
   - {type: line-break, offset: 14, content: '', id: KR3f0038_WYG_000-bkklb4}
   - {type: punctuation, offset: 14, content: (, id: KR3f0038_WYG_000-bkkpn3}
+  - {type: voice, offset: 14, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 15, content: ), id: KR3f0038_WYG_000-bkkpn4}
   - {type: 'tls:seg', offset: 31, content: '', id: KR3f0038_WYG_000-d11p1.s5}
   - {type: line-break, offset: 31, content: '', id: KR3f0038_WYG_000-bkklb5}
@@ -247,18 +248,22 @@ markers:
   - {type: 'tls:seg', offset: 465, content: '', id: KR3f0038_WYG_000-d11p2.s31}
   - {type: line-break, offset: 465, content: '', id: KR3f0038_WYG_000-bkklb31}
   - {type: punctuation, offset: 468, content: (, id: KR3f0038_WYG_000-bkkpn5}
+  - {type: voice, offset: 468, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 469, content: ), id: KR3f0038_WYG_000-bkkpn6}
   - {type: punctuation, offset: 471, content: (, id: KR3f0038_WYG_000-bkkpn7}
+  - {type: voice, offset: 471, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 472, content: ), id: KR3f0038_WYG_000-bkkpn8}
   - {type: punctuation, offset: 475, content: (, id: KR3f0038_WYG_000-bkkpn9}
+  - {type: voice, offset: 475, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 476, content: ), id: KR3f0038_WYG_000-bkkpn10}
   - {type: 'tls:seg', offset: 479, content: '', id: KR3f0038_WYG_000-d11p2.s32}
   - {type: line-break, offset: 479, content: '', id: KR3f0038_WYG_000-bkklb32}
   - {type: punctuation, offset: 482, content: (, id: KR3f0038_WYG_000-bkkpn11}
+  - {type: voice, offset: 482, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 483, content: ), id: KR3f0038_WYG_000-bkkpn12}
   - {type: page-break, offset: 486, content: '', id: KR3f0038_WYG_000-3a}
   - {type: xml-element, offset: 486, content: '', id: KR3f0038_WYG_000-d11p2_end}
   - {type: variant, offset: 486, length: 0, content: '', WYG: 夏侯陽算經原序夫博通九經為儒門之首學該六藝為伎術之宗若非材性通眀孰能與於此也然算數起自伏犧而黄帝定三數為十等隸首因以著九章逮乎有虞乃同律度量衡孔子曰謹權量審法度漢備五數紀於一協於十長於百大於千衍於萬度長短者不失毫氂量多少者不失抄撮權輕重者不失黍絫五曹孫子述作滋多甄鸞劉徽為之詳釋稽之往古妙絶其能儲校今時少有聞見余以總角志好其文畧尋古今備覽差互其如眀數造術詎曉端倪尋考遺言頗知梗㮣且課租庸調無術可憑步數奇殘苦難銷盡求變米穀經旨未贍正耗共升何由剖析三分五分取一法理為眀焉况今令式與古數不同奚能則定代相沿革互議短長經術尤深難可意測是以跋涉川陸參㑹宗流纂定研精刋繁就省袪蕩疑惑括諸古法燭盡毫芒謹錄異同列之於左}
   - {type: variant, offset: 486, length: 0, content: '', krp: 夏侯陽算經原序夫博通九經為儒門之首學該六藝為伎術之宗若非材性通眀孰能與於此也然算數起自伏犧而黄帝定三數為十等隸首因以著九章逮乎有虞乃同律度量衡孔子曰謹權量審法度漢備五數紀於一協於十長於百大於千衍於萬度長短者不失毫氂量多少者不失抄撮權輕重者不失黍絫五曹孫子述作滋多甄鸞劉徽為之詳釋稽之往古妙絶其能儲校今時少有聞見余以總角志好其文畧尋古今備覽差互其如眀數造術詎曉端倪尋考遺言頗知梗㮣且課租庸調無術可憑步數奇殘苦難銷盡求變米穀經旨未贍正耗共升何由剖析三分五分取一法理為眀焉况今令式與古數不同奚能則定代相沿革互議短長經術尤深難可意測是以跋涉川陸參㑹宗流纂定研精刋繁就省袪蕩疑惑括諸古法燭盡毫芒謹錄異同列之於左}
   back: []
-hash: sha256:3e99b7db5a4015c347907a332255434798bb8c4ec3ea209b55a5cdfd63ff6f14
+hash: sha256:c0366684931a41a4ce5c09d0fb0b7dd9ebc3a79c69ce86e31eb31cade2295cc6
